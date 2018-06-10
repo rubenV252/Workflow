@@ -1,0 +1,3 @@
+ModuleNotFoundError in line 1 of /home/ruben/snakemake-project/Snakefile:
+No module named 'Bio'
+  File "/home/ruben/snakemake-project/Snakefile", line 1, in <module>

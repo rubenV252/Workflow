@@ -1,0 +1,15 @@
+Building DAG of jobs...
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	Gene_ID_isolation
+	1
+
+rule Gene_ID_isolation:
+    input: Documents/RNA-Seq-counts.txt
+    output: Documents/Gene_ID.csv
+    jobid: 0
+
+Finished job 0.
+1 of 1 steps (100%) done

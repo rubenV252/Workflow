@@ -1,0 +1,12 @@
+>NC_004567.2 Lactobacillus plantarum WCFS1, complete genome 1..1368
+
+>NC_004567.2 Lactobacillus plantarum WCFS1, complete genome 1546..2685
+
+>NC_004567.2 Lactobacillus plantarum WCFS1, complete genome 3210..3443
+
+>NC_004567.2 Lactobacillus plantarum WCFS1, complete genome 3444..4568
+
+>NC_004567.2 Lactobacillus plantarum WCFS1, complete genome 9860..10159
+
+>NC_004567.2 Lactobacillus plantarum WCFS1, complete genome 10196..10798
+

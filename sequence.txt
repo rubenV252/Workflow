@@ -1,0 +1,38 @@
+
+1. dnaA
+chromosomal replication initiation protein DnaA [Lactobacillus plantarum WCFS1]
+Other Aliases: lp_0001
+Annotation:  NC_004567.2 (1..1368)
+ID: 1061116
+
+2. dnaN
+DNA-directed DNA polymerase III subunit beta [Lactobacillus plantarum WCFS1]
+Other Aliases: lp_0002
+Annotation:  NC_004567.2 (1546..2685)
+ID: 1061106
+
+3. lp_0004
+hypothetical protein [Lactobacillus plantarum WCFS1]
+Other Aliases: lp_0004
+Annotation:  NC_004567.2 (3210..3443)
+ID: 1061118
+
+4. recF
+DNA repair and genetic recombination protein RecF [Lactobacillus plantarum WCFS1]
+Other Aliases: lp_0005
+Annotation:  NC_004567.2 (3444..4568)
+ID: 1061119
+
+5. rpsF
+30S ribosomal protein S6 [Lactobacillus plantarum WCFS1]
+Other Aliases: lp_0009
+Annotation:  NC_004567.2 (9860..10159)
+ID: 1061123
+
+6. ssb
+single-strand DNA-binding protein [Lactobacillus plantarum WCFS1]
+Other Aliases: lp_0010
+Annotation:  NC_004567.2 (10196..10798)
+ID: 1061124
+
+
