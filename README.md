@@ -1,5 +1,5 @@
 # Workflow
-The workflow project
+A example snakemake workflow
 
 De benodigde versies
 
